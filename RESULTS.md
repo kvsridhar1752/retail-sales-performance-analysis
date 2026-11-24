@@ -2,6 +2,10 @@
 
 The analysis was run on 8,000 synthetic retail sales transactions.
 
+## Dashboard
+
+![Retail Sales Performance Dashboard](output/retail_sales_dashboard.svg)
+
 ## Revenue by product category
 
 | Product category | Revenue (EUR) | Orders | Units sold |
@@ -25,10 +29,3 @@ The analysis was run on 8,000 synthetic retail sales transactions.
 ## Key insight
 
 Electronics generates the largest share of revenue, while Beauty has the lowest revenue despite a meaningful number of orders. Munich is the highest-revenue region, and the analysis recommends prioritizing Electronics inventory, promoting higher-margin products, and reviewing Beauty category pricing and assortment.
-
-The dashboard image is generated locally by running:
-
-```bash
-python data/generate_data.py
-python analysis/sales_analysis.py
-```

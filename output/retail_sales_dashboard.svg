@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="620" viewBox="0 0 1100 620" font-family="Arial, Helvetica, sans-serif">
+<rect width="1100" height="620" fill="#ffffff"/>
+<text x="550" y="40" text-anchor="middle" font-size="24" font-weight="bold" fill="#111">Retail Sales Performance Dashboard</text>
+<text x="550" y="66" text-anchor="middle" font-size="13" fill="#555">8,000 simulated retail transactions | Revenue, category, region and product performance</text>
+<text x="60" y="115" font-size="16" font-weight="bold" fill="#111">Revenue by product category</text>
+<rect x="70" y="135" width="540" height="30" fill="#4C72B0"/><text x="620" y="155" font-size="12" fill="#111">Electronics: EUR 923,205.01</text>
+<rect x="70" y="180" width="205" height="30" fill="#4C72B0"/><text x="285" y="200" font-size="12" fill="#111">Home &amp; Kitchen: EUR 350,495.53</text>
+<rect x="70" y="225" width="129" height="30" fill="#4C72B0"/><text x="209" y="245" font-size="12" fill="#111">Sports: EUR 221,262.27</text>
+<rect x="70" y="270" width="129" height="30" fill="#4C72B0"/><text x="209" y="290" font-size="12" fill="#111">Clothing: EUR 220,146.68</text>
+<rect x="70" y="315" width="53" height="30" fill="#C44E52"/><text x="133" y="335" font-size="12" fill="#111">Beauty: EUR 89,862.24</text>
+<text x="700" y="115" font-size="16" font-weight="bold" fill="#111">Revenue by region</text>
+<rect x="720" y="135" width="240" height="26" fill="#55A868"/><text x="970" y="153" font-size="12" fill="#111">Munich: EUR 375,520.11</text>
+<rect x="720" y="175" width="232" height="26" fill="#55A868"/><text x="962" y="193" font-size="12" fill="#111">Cologne: EUR 363,574.24</text>
+<rect x="720" y="215" width="232" height="26" fill="#55A868"/><text x="962" y="233" font-size="12" fill="#111">Hamburg: EUR 363,079.89</text>
+<rect x="720" y="255" width="226" height="26" fill="#55A868"/><text x="956" y="273" font-size="12" fill="#111">Frankfurt: EUR 353,690.41</text>
+<rect x="720" y="295" width="223" height="26" fill="#55A868"/><text x="953" y="313" font-size="12" fill="#111">Berlin: EUR 349,107.08</text>
+<text x="60" y="395" font-size="16" font-weight="bold" fill="#111">Top products by revenue</text>
+<text x="70" y="422" font-size="13" fill="#333">1. Smart Watch — EUR 246,644.79</text>
+<text x="70" y="444" font-size="13" fill="#333">2. Wireless Earbuds — EUR 239,336.44</text>
+<text x="70" y="466" font-size="13" fill="#333">3. Bluetooth Speaker — EUR 224,529.35</text>
+<text x="70" y="488" font-size="13" fill="#333">4. Air Fryer — EUR 146,257.36</text>
+<text x="70" y="510" font-size="13" fill="#333">5. Coffee Maker — EUR 108,467.62</text>
+<text x="620" y="395" font-size="16" font-weight="bold" fill="#111">Key business insight</text>
+<text x="620" y="422" font-size="13" fill="#333">Electronics is the strongest revenue category and should remain</text>
+<text x="620" y="444" font-size="13" fill="#333">a priority for inventory, promotions and assortment planning.</text>
+<text x="620" y="474" font-size="13" fill="#333">Beauty generates the lowest revenue despite meaningful order volume,</text>
+<text x="620" y="496" font-size="13" fill="#333">so pricing, bundling and product-mix opportunities should be reviewed.</text>
+<text x="620" y="526" font-size="13" fill="#333">Munich is the highest-revenue region, followed closely by Cologne</text>
+<text x="620" y="548" font-size="13" fill="#333">and Hamburg.</text>
+</svg>
